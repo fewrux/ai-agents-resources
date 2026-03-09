@@ -1,5 +1,7 @@
 # ai-study
 
+> AI study material, docs, and resources.
+
 ## Deep Agents
 - https://deepwiki.com/langchain-ai/deepagents/1-overview
 
