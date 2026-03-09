@@ -22,7 +22,9 @@
 - https://github.com/HyunjunJeon/Deepagent-research-context-engineering/blob/main/skills/academic-search/SKILL.md
 
 ## Memory
+- https://arxiv.org/abs/2309.02427
 - https://docs.openclaw.ai/concepts/memory
+- https://docs.langchain.com/oss/python/concepts/memory
 
 ## Prompts
 - https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
