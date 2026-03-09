@@ -1,4 +1,4 @@
-# ai-study
+# ai-agents-resources
 
 > Selection of AI docs, papers, and study resources.
 
