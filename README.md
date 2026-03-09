@@ -1,6 +1,6 @@
 # ai-study
 
-> Selection of AI study material, docs, and resources.
+> Selection of AI docs, papers, and study resources.
 
 ## Deep Agents
 - https://deepwiki.com/langchain-ai/deepagents/1-overview
