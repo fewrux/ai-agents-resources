@@ -1,6 +1,6 @@
 # ai-agents-resources
 
-> Curated collection of docs, papers, frameworks, and resources for building advanced AI agents. Focuses on Deep Agents (LangChain), skills, memory, benchmarks like SWE-bench, and cutting-edge topics like RLM & MILP.
+> An ever expanding curated collection of docs, papers, frameworks, and resources for building advanced AI agents. Focuses on Deep Agents (LangChain), skills, memory, benchmarks like SWE-bench, and cutting-edge topics like RLM & MILP.
 
 ## Contents
 - [Deep Agents](#deep-agents)
