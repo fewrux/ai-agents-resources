@@ -2,6 +2,19 @@
 
 > Curated collection of docs, papers, frameworks, and resources for building advanced AI agents. Focuses on Deep Agents (LangChain), skills, memory, benchmarks like SWE-bench, and cutting-edge topics like RLM & MILP.
 
+## Contents
+- [Deep Agents](#deep-agents)
+- [Harness](#harness)
+- [Subagents](#subagents)
+- [Skills](#skills)
+- [Memory](#memory)
+- [Prompts](#prompts)
+- [RLM](#rlm)
+- [MILP](#milp)
+- [Benchmarks](#benchmarks)
+- [Forums](#forums)
+- [Articles](#articles)
+
 ## Deep Agents
 - https://deepwiki.com/langchain-ai/deepagents/1-overview
 - https://docs.langchain.com/oss/python/deepagents/overview
